@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "Xiaomi-mi8-ud",
       "repo": "https://github.com/diyishengqing/Xiaomi_Kernel_OpenSource-sdm845",
       "branch": "88-zstd",
       "device": "equuleus",
