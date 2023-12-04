@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi-poco-F1",
+      "name": "Xiaomi-Mix3",
       "repo": "https://github.com/diyishengqing/Xiaomi_Kernel_OpenSource-sdm845",
       "branch": "perseus-p-oss",
       "device": "perseus",
