@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "Xiaomi-poco-F1",
       "repo": "https://github.com/diyishengqing/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
-      "device": "beryllium",
-      "defconfig": "beryllium_user_defconfig"
+      "branch": "perseus-p-oss",
+      "device": "perseus",
+      "defconfig": "perseus_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
