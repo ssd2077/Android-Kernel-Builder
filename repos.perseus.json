@@ -1,16 +1,16 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi-mix3",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git",
-      "branch": "perseus-p-oss",
+      "name": "Xiaomi_Kernel_OpenSource-sdm845",
+      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
+      "branch": "88-zstd",
       "device": "perseus",
       "defconfig": "perseus_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
       {
-        "repo": "https://github.com/diyishengqing/android-kernel-tools",
+        "repo": "https://github.com/Akitlove/android-kernel-tools",
         "branch": "clang13",
         "name": "clang13",
         "binPath": ["./bin"]
@@ -38,7 +38,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/diyishengqing/AnyKernel3",
+      "repo": "https://github.com/Akitlove/AnyKernel3",
       "branch": "master"
     }
   }
