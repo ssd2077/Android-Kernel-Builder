@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi-mix3",
-      "repo": "https://github.com/diyishengqing/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git",
+      "branch": "perseus-p-oss",
       "device": "perseus",
       "defconfig": "perseus_user_defconfig"
     },
