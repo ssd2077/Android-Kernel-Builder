@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "kernel_xiaomi_sdm845",
-      "repo": "https://github.com/Demon000/kernel_xiaomi_sdm845.git",
+      "repo": "https://github.com/Demon000/kernel_xiaomi_sdm845",
       "branch": "perseus-p-oss",
       "device": "perseus",
       "defconfig": "perseus_defconfig"
