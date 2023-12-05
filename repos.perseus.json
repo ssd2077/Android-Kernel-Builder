@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/AndroPlus-org/android_kernel_xiaomi_sdm845",
-      "branch": "perseus-p",
+      "name": "android_kernel_xiaomi_perseus",
+      "repo": "https://github.com/SubDragonzj/android_kernel_xiaomi_perseus",
+      "branch": "mkq-mr1",
       "device": "perseus",
       "defconfig": "perseus_user_defconfig"
     },
