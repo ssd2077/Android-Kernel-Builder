@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/ssd2077/Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "msm-4.9",
+      "repo": "https://github.com/JohnnyLeone/msm-4.9/",
       "branch": "88-zstd",
       "device": "perseus",
       "defconfig": "perseus_user_defconfig"
