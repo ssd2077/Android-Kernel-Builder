@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "msm-4.9",
       "repo": "https://github.com/JohnnyLeone/msm-4.9/",
-      "branch": "88-zstd",
+      "branch": "perseus",
       "device": "perseus",
       "defconfig": "perseus_user_defconfig"
     },
